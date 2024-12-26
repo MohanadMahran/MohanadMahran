@@ -11,21 +11,20 @@ I am an Electronics and Communication Engineer passionate about AI, robotics, an
   Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany | *Oct 2024 - Present*  
   - Focus Areas:  
     - Machine Learning & Deep Learning  
-    - Signal Processing (Data, Image, Video)  
+    - Signal Processing
     - Robotics & Automation  
     - Human-Robot Interaction  
     - Medical Robotics & AI  
 
 - **B.E. in Communications and Electronics Engineering**  
   Ahram Canadian University (ACU), Egypt | *Graduated: 2020*  
-  - GPA: 3.3/4.0 | Grade: Very Good  
-  - **Graduation Project**: Developed a real-time object-detection robotic arm powered by YOLO for manipulation tasks using AI and kinematics.  
+  - GPA: 3.3/4.0 | Grade: Very Good 
 
 ---  
 
 ## 🔬 Research Interests  
 - **Signal Processing**  
-  - Digital Signal Processing  
+  - Signal Processing  
   - Image & Video Processing  
   - Pattern Recognition & Feature Extraction  
 
@@ -35,24 +34,7 @@ I am an Electronics and Communication Engineer passionate about AI, robotics, an
   - Robot Kinematics & Path Planning  
   - Human-Robot Collaboration  
 
----  
-
-## 💼 Professional Experience  
-
-- **Data Science & Machine Learning**  
-  *Sep 2022 – June 2024*  
-  - Built computer vision pipelines with YOLO and OpenCV.  
-  - Designed and optimized signal processing algorithms.  
-  - Developed ML models for pattern recognition and analytics.  
-  - Streamlined image processing workflows for efficiency.  
-
-- **Embedded System & Smart Home**  
-  *Sep 2021 – Dec 2021*  
-  - Designed and implemented sensor-driven automation systems.  
-  - Conducted real-time signal processing for IoT applications.  
-  - Integrated smart home functionalities into a unified platform.  
-
----  
+---   
 
 ## 🛠 Technical Skills  
 
@@ -90,6 +72,6 @@ I am an Electronics and Communication Engineer passionate about AI, robotics, an
 
 - **Arabic**: Native  
 - **English**: B2  
-- **German**: A1  
+- **German**: A2  
 
 ---
