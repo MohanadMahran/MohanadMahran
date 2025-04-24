@@ -1,77 +1,95 @@
-# Mohanad Mahran Kombar  
-### AI & Robotics Engineer | M.Sc. Student at FAU  
+# Mohanad M. Kombar  
+### 👨‍💻 DevOps & AI Engineer | Medical Imaging Researcher | M.Sc. Student in Autonomous Technologies
 
-## 👨‍💻 About Me  
-I am an Electronics and Communication Engineer passionate about AI, robotics, and signal processing. Currently pursuing a **Master of Science in Autonomy Technologies** at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), I focus on advanced robotics, signal processing, and intelligent automation systems. I thrive at the intersection of technology and innovation, aiming to create impactful solutions that blend AI, robotics, and automation.  
+## 🔎 About Me  
 
----  
+I’m a passionate **AI & DevOps Engineer** currently working as a **Research Assistant in AI and Medical Imaging** at **Fraunhofer IIS**. My research involves developing deep learning solutions for medical image analysis, combining innovation in computer vision with healthcare impact.
+
+With a foundation in **Electronics and Communications Engineering**, I’m pursuing my **M.Sc. in Autonomous Technologies** at **FAU Erlangen-Nürnberg**, focusing on robotics, human-robot interaction, and intelligent automation. I blend academic insight with real-world engineering, building scalable AI systems and cloud-native pipelines.
+
+---
 
 ## 🎓 Education  
-- **M.Sc. in Autonomy Technologies**  
-  Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany | *Oct 2024 - Present*  
-  - Focus Areas:  
-    - Machine Learning & Deep Learning  
-    - Signal Processing
-    - Robotics & Automation  
-    - Human-Robot Interaction  
-    - Medical Robotics & AI  
 
-- **B.E. in Communications and Electronics Engineering**  
-  Ahram Canadian University (ACU), Egypt | *Graduated: 2020*  
-  - GPA: 3.3/4.0 | Grade: Very Good 
-
----  
-
-## 🔬 Research Interests  
-- **Signal Processing**  
+- **M.Sc. in Autonomous Technologies**  
+  *Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany*  
+  *Oct 2024 – Present*  
+  Focus Areas:  
+  - AI & Deep Learning  
+  - Robotics & Medical Imaging  
+  - Human-Robot Interaction  
+  - Cloud DevOps & Automation  
   - Signal Processing  
-  - Image & Video Processing  
-  - Pattern Recognition & Feature Extraction  
 
-- **Robotics & AI**  
-  - Autonomous Systems  
-  - Computer Vision  
-  - Robot Kinematics & Path Planning  
-  - Human-Robot Collaboration  
+- **B.E. in Electronics & Communications Engineering**  
+  *Ahram Canadian University (ACU), Egypt*  
+  *Graduated: Feb 2024*  
+  GPA: 3.3/4.0 | Grade: Very Good  
+  Final Project: YOLO-powered Robotic Arm for Target Detection and Manipulation
 
----   
+---
 
-## 🛠 Technical Skills  
+## 🧠 Core Competencies  
 
-- **Programming & Tools**: Python, C++, MATLAB, R  
-- **AI & ML Frameworks**: YOLO, OpenCV, TensorFlow, PyTorch, scikit-learn, scikit-image  
-- **Signal Processing**: NumPy, SciPy, Digital Filters, Image Processing Libraries  
-- **Robotics**: ROS (Robot Operating System), Motion Planning, Control Systems  
-- **Other Tools**: Git, Docker, Jupyter  
+### ⚙️ DevOps & Cloud Engineering  
+- CI/CD Pipelines (GitHub Actions, GitLab CI)  
+- Docker, Kubernetes, Virtualization  
+- Google Cloud Platform (GCP)  
+- Automation (Python, Bash)  
+- Linux Systems, GitOps  
 
----  
+### 🤖 AI & Computer Vision  
+- Deep Learning (CNNs, U-Nets, Transformers)  
+- Medical Image Analysis (CT, MRI, DICOM)  
+- Object Detection (YOLO, OpenCV)  
+- Image & Signal Processing  
+- Annotation Tools & Dataset Curation  
 
-## 🚀 Projects  
+### 📊 Data Analytics & Visualization  
+- Power BI, IBM Cognos, Looker Studio  
+- Pandas, NumPy, SciPy  
+- Digital Filtering & Feature Extraction  
 
-1. **Advanced Signal Processing Pipeline**  
-   - Developed real-time video processing and feature detection pipelines.  
-   - Enhanced signal filtering and data preprocessing systems.  
+---
 
-2. **Human-Robot Interaction System**  
-   - Integrated gesture recognition and motion tracking.  
-   - Ensured robust safety protocols for collaborative environments.   
+## 🔬 Research Experience  
 
----  
+### 🧠 AI & Medical Imaging Research Assistant  
+**Fraunhofer Institute for Integrated Circuits IIS**  
+*Erlangen, Germany | Mar 2025 – Present*  
+- Designing and training AI models for segmentation and detection in medical images  
+- Working with annotated clinical datasets (CT/MRI scans) using TensorFlow & PyTorch  
+- Supporting AI research in healthcare innovation and image diagnostics  
 
-## 📚 Certifications  
+---
+
+
+## 🛡️ Certifications  
 
 - IBM Data Science Professional Certificate  
 - IBM Data Analyst Professional Certificate  
+- ITI Artificial Intelligence Diploma  
 - SAS Machine Learning Using SAS Viya  
-- SAS Data Literacy Certifications  
-- ITI Artificial Intelligence Course  
-
----  
-
-## 🌐 Languages  
-
-- **Arabic**: Native  
-- **English**: B2  
-- **German**: A2  
+- SAS Data Literacy Certificate  
+- CCNA Security & Networking  
 
 ---
+
+## 🌍 Languages  
+
+- **Arabic** – Native  
+- **English** – Professional (B2)  
+- **German** – Beginner (A2)  
+
+---
+
+## 🔗 Let’s Connect  
+
+- 📧 Email: mohanadmahran98@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/mohanadmahran](https://www.linkedin.com/in/mohanadmahran)  
+- 📁 GitHub: [github.com/MohanadMahran](https://github.com/MohanadMahran)  
+
+---
+
+🚀 *Innovating where AI meets automation, healthcare, and robotics.*
+
